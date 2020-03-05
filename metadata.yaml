@@ -1,0 +1,33 @@
+_repo: Le-Troupeau-d-Aristee_61538
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tailhade, Laurent
+    aliases:
+    - Lorenzaccio
+    - Azede
+    - Patte-Pelue
+    - Cachetero, El
+    - Junipérien, Dom
+    - Juniperien, Dom
+    - Tybalt
+    - Azède
+    - Renzi
+    birthdate: 1854
+    deathdate: 1919
+    gutenberg_agent_id: '47304'
+    url: http://www.gutenberg.org/2009/agents/47304
+    wikipedia: https://fr.wikipedia.org/wiki/Laurent_Tailhade
+description: ''
+gutenberg_issued: '2020-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61538'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le Troupeau d'Aristée
+url: http://www.gutenberg.org/ebooks/61538
